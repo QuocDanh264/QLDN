@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|C:\\Users\\QuocDanh\\source\\repos\\QLDN\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|c:\\users\\quocdanh\\source\\repos\\qldn\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|c:\\users\\quocdanh\\source\\repos\\qldn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|c:\\users\\quocdanh\\source\\repos\\qldn\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|C:\\Users\\QuocDanh\\source\\repos\\QLDN\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|C:\\Users\\QuocDanh\\source\\repos\\QLDN\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|C:\\Users\\QuocDanh\\source\\repos\\QLDN\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D485B2A-5B78-4017-ABED-F4CBD02F7270}|QLDN.csproj|C:\\Users\\QuocDanh\\source\\repos\\QLDN\\services\\loginservice.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -54,15 +58,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\FormRegister.cs",
+              "RelativeDocumentMoniker": "FormRegister.cs",
+              "ToolTip": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\FormRegister.cs [Design]",
+              "RelativeToolTip": "FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:56:35.574Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -74,8 +86,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "LoginForm.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:17:56.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T05:17:56.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
@@ -99,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
@@ -111,7 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:32:44.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
@@ -123,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "202504090457144_InitCreateUserTable.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Migrations\\202504090457144_InitCreateUserTable.cs",
               "RelativeDocumentMoniker": "Migrations\\202504090457144_InitCreateUserTable.cs",
@@ -135,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -143,11 +171,12 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-09T04:53:42.173Z"
+              "WhenOpened": "2025-04-09T04:53:42.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -159,19 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T04:32:44.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QuocDanh\\source\\repos\\QLDN\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
