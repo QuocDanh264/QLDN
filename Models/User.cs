@@ -17,8 +17,8 @@ namespace QLDN.Models
 
         [Required]
         public string PasswordHash { get; set; }
-       
 
+        public string Email { get; set; }
         public int FailedLoginCount { get; set; } = 0;
 
         public DateTime? LockedUntil { get; set; }
