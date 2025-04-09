@@ -10,9 +10,9 @@ namespace QLDN.Data
 {
      public class AppDbContext : DbContext
     {
-        public AppDbContext() : base("name=DefaultConnection") // chuỗi kết nối trong App.config
-        {
-        }
+        public AppDbContext() : base("name=DefaultConnection") 
+    {
+    }
         public DbSet<User> Users { get; set; }
     }
 }
