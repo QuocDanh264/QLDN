@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace QLDN.Services
 {
-    class LoginService
+    public class LoginService
     {
 		private readonly AppDbContext _context;
 

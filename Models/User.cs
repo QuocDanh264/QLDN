@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace QLDN.Models
 {
-    internal class User
+    public class User
     {
         [Key]
         public int Id { get; set; }
