@@ -106,6 +106,7 @@
             this.btnRegister.TabIndex = 7;
             this.btnRegister.Text = "Đăng Ký";
             this.btnRegister.UseVisualStyleBackColor = true;
+            this.btnRegister.Click += new System.EventHandler(this.btnRegister_Click);
             // 
             // lblMessage
             // 
