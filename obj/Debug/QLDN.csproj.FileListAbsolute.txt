@@ -1,0 +1,16 @@
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\QLDN.exe.config
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\QLDN.exe
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\QLDN.pdb
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\EntityFramework.dll
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\EntityFramework.xml
+C:\Users\QuocDanh\source\repos\QLDN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.csproj.AssemblyReference.cache
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.Form1.resources
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.Properties.Resources.resources
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.csproj.GenerateResource.cache
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.csproj.CoreCompileInputs.cache
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.csproj.Up2Date
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.exe
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.pdb
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.Migrations.InitCreateUserTable.resources
