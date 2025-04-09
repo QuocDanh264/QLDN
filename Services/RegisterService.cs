@@ -23,6 +23,7 @@ public class RegisterService
         return Regex.IsMatch(password, pattern);
     }
 
+
     public bool Register(string username, string email, string password, out string error)
     {
         if (UsernameExists(username)) { error = "Username đã tồn tại"; return false; }
@@ -37,4 +38,5 @@ public class RegisterService
         error = null;
         return true;
     }
+
 }
