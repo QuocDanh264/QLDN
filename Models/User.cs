@@ -17,6 +17,7 @@ namespace QLDN.Models
 
         [Required]
         public string PasswordHash { get; set; }
+       
 
         public int FailedLoginCount { get; set; } = 0;
 
