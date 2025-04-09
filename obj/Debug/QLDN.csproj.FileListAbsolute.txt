@@ -14,3 +14,4 @@ C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.csproj.Up2Date
 C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.exe
 C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.pdb
 C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.Migrations.InitCreateUserTable.resources
+C:\Users\QuocDanh\source\repos\QLDN\obj\Debug\QLDN.LoginForm.resources
